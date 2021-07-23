@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19cab840.chunk.css",
+    "main.js": "/static/js/main.8bc94a1d.chunk.js",
+    "main.js.map": "/static/js/main.8bc94a1d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.caec003a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.caec003a.js.map",
+    "static/js/2.11fd5638.chunk.js": "/static/js/2.11fd5638.chunk.js",
+    "static/js/2.11fd5638.chunk.js.map": "/static/js/2.11fd5638.chunk.js.map",
+    "static/js/3.3645950c.chunk.js": "/static/js/3.3645950c.chunk.js",
+    "static/js/3.3645950c.chunk.js.map": "/static/js/3.3645950c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.19cab840.chunk.css.map": "/static/css/main.19cab840.chunk.css.map",
+    "static/js/2.11fd5638.chunk.js.LICENSE.txt": "/static/js/2.11fd5638.chunk.js.LICENSE.txt",
+    "static/media/Lumen5_clone.5b48e25f.png": "/static/media/Lumen5_clone.5b48e25f.png",
+    "static/media/PremierLeague_clone.a4de976f.png": "/static/media/PremierLeague_clone.a4de976f.png",
+    "static/media/UrbanCompany_clone.cd0753e1.png": "/static/media/UrbanCompany_clone.cd0753e1.png",
+    "static/media/github.a52d446c.png": "/static/media/github.a52d446c.png",
+    "static/media/pic.3543d923.jpeg": "/static/media/pic.3543d923.jpeg",
+    "static/media/redux.168e37f0.png": "/static/media/redux.168e37f0.png",
+    "static/media/yatra_clone.178cc480.png": "/static/media/yatra_clone.178cc480.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caec003a.js",
+    "static/js/2.11fd5638.chunk.js",
+    "static/css/main.19cab840.chunk.css",
+    "static/js/main.8bc94a1d.chunk.js"
+  ]
+}
